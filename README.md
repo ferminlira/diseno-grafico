@@ -20,7 +20,7 @@
   - Illustrator: Uso de color, distintas unidades de color, crear paletas cromáticas
   - Adobe Color CC
   
-**Clase 3**
+**Clase 3** Tipografía
 - Introducción a la tipografía			
 - Familias tipográficas			
 - Tipografía digital, impresión y pantalla			
@@ -30,7 +30,7 @@
 - Illustrator: Manejo de tipografía			
 - Crear guia de UI para sitio web
 
-**Clase 4**
+**Clase 4** Imágenes
 - Gráficos de mapas de bits			
 - Gestión del color en mapas de bits			
 - Peso y optimización de ficheros gráficos			
@@ -41,7 +41,7 @@
 - Otros formatos gráficos para web			
 - Photoshop: Espacio de trabajo, herramientas,
 
-**Clase 5**
+**Clase 5** Estructura
 - Introducción a las Interfaces de usuario			
 - Header, menú de navegación, contenido, foote			
 - Composición			
@@ -51,7 +51,7 @@
 - Grilla, Reglas,botones			
 - Uso de capas
 
-**Clase 6**
+**Clase 6** Illustrator: Otras herramientas
 - Degradados			
 - Gotero			
 - Malla			
@@ -61,7 +61,7 @@
 - Guía de color			
 - Transparencia
 
-**Clase 7**
+**Clase 7** Branding
 - Branding			
 - ¿Qué es un logo?			
 - Diferentes tipos de logos			
@@ -72,15 +72,15 @@
 - Vectorización			
 - Illustrator
 
-**Clase 8**
+**Clase 8** Workshop
 - Pensar un proyecto			
 - Crea un wireframe para web / tablet / mobile
 
-**Clase 9**
+**Clase 9** Workshop
 - Crear un logo			
 - Crear guía cromática y tipográfica de marca
 
-**Clase 10**
+**Clase 10** Photoshop: Herramientas
 - Clonador			
 - Color			
 - Temperatura			
