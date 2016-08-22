@@ -21,39 +21,74 @@
   - Adobe Color CC
   
 **Clase 3**
-  - test
-
+- Introducción a la tipografía			
+- Familias tipográficas			
+- Tipografía digital, impresión y pantalla			
+- Tipografía y diseño web			
+- GoogleFonts			
+- Disposición de textos en una página web			
+- Illustrator: Manejo de tipografía			
+- Crear guia de UI para sitio web
 
 **Clase 4**
+- Gráficos de mapas de bits			
+- Gestión del color en mapas de bits			
+- Peso y optimización de ficheros gráficos			
+- Gráficos vectoriales			
+- Formatos gráficos en general y nativos de apl			
+- Formatos gráficos para las imágenes de la web			
+- Elección y optimización del formato gráfico			
+- Otros formatos gráficos para web			
+- Photoshop: Espacio de trabajo, herramientas,
 
 **Clase 5**
+- Introducción a las Interfaces de usuario			
+- Header, menú de navegación, contenido, foote			
+- Composición			
+- Call to action			
+- Resoluciones y proporciones			
+- Crear un wireframe de sitio web			
+- Grilla, Reglas,botones			
+- Uso de capas
 
 **Clase 6**
+- Degradados			
+- Gotero			
+- Malla			
+- Efectos			
+- Filtros			
+- Transformación			
+- Guía de color			
+- Transparencia
 
 **Clase 7**
+- Branding			
+- ¿Qué es un logo?			
+- Diferentes tipos de logos			
+- Partes de un logo			
+- Proceso creativo			
+- Cómo hacer un logo exitoso			
+- Bocetando a mano			
+- Vectorización			
+- Illustrator
 
 **Clase 8**
+- Pensar un proyecto			
+- Crea un wireframe para web / tablet / mobile
 
 **Clase 9**
+- Crear un logo			
+- Crear guía cromática y tipográfica de marca
 
 **Clase 10**
+- Clonador			
+- Color			
+- Temperatura			
+- Luces			
+- Sombras			
+- Brillo y Contraste			
+- Colores de relleno			
+- Goma			
+- Desenfoque
 
-**Clase 11**
 
-**Clase 12**
-
-**Clase 13**
-
-**Clase 14**
-
-**Clase 15**
-
-**Clase 16**
-
-**Clase 17**
-
-**Clase 18**
-
-**Clase 19**
-
-**Clase 20**
