@@ -1,4 +1,9 @@
-# diseno-grafico
+# Diseño Gráfico
+
+## Requisitos
+- Este curso no cuenta con requisitos previos
+
+------------
 
 [**Clase 1** Intro al diseño gráfico] (https://github.com/CoderHouse/diseno-grafico/blob/master/clase01.md)
   - Introducción al diseño gráfico
