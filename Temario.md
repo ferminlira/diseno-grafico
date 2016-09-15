@@ -8,6 +8,7 @@
   * ¿Cómo agrupar elementos correctamente para un diseño equilibrado?
   * La jerarquía visual en el diseño web
   * Illustrator: Espacio de trabajo y herramientas
+  * Trabajo Práctico :white_check_mark:
 
 ## Teoría del color
 
@@ -21,6 +22,7 @@
   * Elección de la paleta para un sitio web
   * Illustrator: Uso de color, distintas unidades de color, crear paletas cromáticas
   * Adobe Color CC
+  * Trabajo Práctico :white_check_mark:
   
 ## Tipografía
 
@@ -32,6 +34,7 @@
   * Disposición de textos en una página web			
   * Illustrator: Manejo de tipografía			
   * Crear guia de UI para sitio web
+  * Trabajo Práctico :white_check_mark:
 
 ## Imágenes
 
@@ -43,7 +46,8 @@
   * Formatos gráficos para las imágenes de la web			
   * Elección y optimización del formato gráfico			
   * Otros formatos gráficos para web			
-  * Photoshop: Espacio de trabajo, herramientas,
+  * Photoshop: Espacio de trabajo, herramientas
+  * Trabajo Práctico :white_check_mark:
 
 ## Estructura
 
@@ -55,6 +59,7 @@
   * Crear un wireframe de sitio web			
   * Grilla, Reglas,botones			
   * Uso de capas
+  * Trabajo Práctico :white_check_mark:
 
 ## Illustrator: Otras herramientas
 
@@ -66,6 +71,7 @@
   * Transformación			
   * Guía de color			
   * Transparencia
+  * Trabajo Práctico :white_check_mark:
 
 ## Branding
 
@@ -78,6 +84,7 @@
   * Bocetando a mano			
   * Vectorización			
   * Illustrator
+  * Trabajo Práctico :white_check_mark:
 
 -----------
 
@@ -106,6 +113,7 @@
   * Colores de relleno			
   * Goma			
   * Desenfoque
+  * Trabajo Práctico :white_check_mark:
 
 ## Photoshop: Herramientas
 
@@ -115,16 +123,19 @@
   * Filtros			
   * Path			
   * Trabajo con capas
+  * Trabajo Práctico :white_check_mark:
 
 ## Photoshop
 
   * Gif animado			
   * Crea un banner
+  * Trabajo Práctico :white_check_mark:
 
 ## Frameworks
 
   * Bootstrap			
   * Material Design
+  * Trabajo Práctico :white_check_mark:
 
 -----------
 
@@ -156,6 +167,7 @@
 
   * Adobe XD			
   * Interacciones, Usabilidad
+  * Trabajo Práctico :white_check_mark:
 
 -----------
 
